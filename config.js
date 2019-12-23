@@ -19,18 +19,13 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
-    {
-      label: 'Articles',
-      path: '/pages/articles'
-    }
   ],
   author: {
     name: 'Brett Shear',
     photo: '/bio1.jpg',
-    bio: 'Cofounder, COO @Terminaldotco    Alumni @ConsenSys'  
-     '#ethereum #NFTs #DeFi #IPFS #dApps',
+    bio: 'Cofounder, COO @Terminaldotco     Alumni @ConsenSys  #ethereum #NFTs #DeFi #IPFS #dApps',
     contacts: {
-      email: 'mailto:brettharrisonshear@gmail.com',
+      email: 'brettharrisonshear@gmail.com',
       telegram: '@blobkchainbrett',
       twitter: 'https://twitter.com/web3brett',
       github: 'https://github.com/blockchainbrett',
