@@ -9,13 +9,12 @@ description: "Terminal is an all in one place to easily manage and build dApps, 
 socialImage: "/media/42-line-bible.jpg"
 ---
 
-### Outside of our first office with cofounders Harrison and Janison
+![terminal-cover_photo.PNG](/media/terminal_cover_photo.PNG)
+     *With Terminal’s new monitoring platform, you now have a mission control panel for your dapp.*
+
+#### Learn more about Terminal by reading our [Blog](https://blog.terminal.co) or following us on [Twitter](https://twitter.com/terminaldotco).
 
 
-![Terminal_founders.PNG](/media/terminal_founders.png)
-     *Outside of our first office with cofounders Harrison and Janison*
-
-#### Check out more about Terminal by reading our [Blog](https://blog.terminal.co) or following us on [Twitter](https://twitter.com/terminaldotco).
 
 
 

@@ -12,5 +12,3 @@ tags:
 description: "Balanc3 was a platform for digital asset accounting. For companies holding and operating with digital assets to automate their reporting processes."
 socialImage: "/media/gutenberg.jpg"
 ---
-
-![42-line-bible.jpg](/media/42-line-bible.jpg)
