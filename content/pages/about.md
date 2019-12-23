@@ -4,10 +4,8 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I've been building products in the blockchain space for several years; including product developement, recruiting teams, and business development.
+I cofounded Terminal with Harrison Hines and Janison Sivarajah, which we all previously met at ConsensSys. At ConsenSys I was part of the founding team of Balanc3, which was the "Quickbooks for Crypto". There I led product development and business development to release the app and sell to 70+ dApps. My experience in the blockchain industry started during 2016 building a dapp on a private instance of Quorum using Azure to improve the dining dollar student experience at Fordham (while starting the Fordham blockchain community, Fordham FinTech Network). Mid 2016 was my "down the rabbit hole" experience in which I read numerous whitepapers, met key people based in NYC, and started my building my own product. 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+![Terminal_founders.PNG](/media/terminal_founders.png)
+     *Terminal | Outside of our first office with cofounders Harrison and Janison*
