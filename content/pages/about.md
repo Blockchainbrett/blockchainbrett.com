@@ -5,7 +5,12 @@ socialImage: "/media/image-2.jpg"
 ---
 
 I've been building companies in the blockchain space for several years; including product developement, recruiting teams, and business development.
-I cofounded Terminal with Harrison Hines and Janison Sivarajah, which we all previously met at ConsensSys. At ConsenSys I was part of the founding team of Balanc3, which was the "Quickbooks for Crypto". There I led product development and business development to release the app and sell to 70+ dApps. My experience in the blockchain industry started during 2016 building a dapp on a private instance of Quorum using Azure to improve the dining dollar student experience at Fordham (while starting the Fordham blockchain community, Fordham FinTech Network). Mid 2016 was my "down the rabbit hole" experience in which I read numerous whitepapers, met key people based in NYC, and started my building my own product. 
+
+As one of the cofounders of Terminal alongside Harrison Hines, our CEO and Janison Sivarajah, our CTO, we are building the worlds leading dapp management platform. We all previously cofounded blockchain companies or dapps beforehand and came together to focus on the vision of managing your dapp in one place. 
+
+At ConsenSys I was part of the founding team of Balanc3, which was the "Quickbooks for Crypto". There I led product development to release the production app targeting the full crypto bookkeeper Product-Market-Fit in a year, and led business development selling the product to 70+ dApps. 
+
+My experience in the blockchain industry originally began in 2016 building a dapp on a private instance of Quorum using Azure to improve the dining dollar student experience at Fordham (while starting the Fordham blockchain community, Fordham FinTech Network). Mid 2016 was my "down the rabbit hole" experience in which I read numerous whitepapers, met key people based in NYC (Thankful for meetups!), and started building my own product.
 
 
 ![bio1.jpg](bio1.jpg)
