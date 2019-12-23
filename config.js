@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title:  'Brett Shear',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Cofounder, COO @Terminaldotco Alumni @ConsenSys #ethereum #NFTs #DeFi #IPFS #dApps',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,

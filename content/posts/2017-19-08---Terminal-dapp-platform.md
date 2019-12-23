@@ -1,5 +1,5 @@
 ---
-title: Terminal | Dapp Management Platform
+title: "Terminal: Dapp Management Platform"
 date: "2018-10-19T22:40:32.169Z"
 template: "post"
 draft: false

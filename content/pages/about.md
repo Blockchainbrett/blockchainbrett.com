@@ -12,6 +12,6 @@ I cofounded Terminal with Harrison Hines and Janison Sivarajah, which we all pre
     *That's me*
 
 ![Terminal_founders.PNG](/media/terminal_founders.png)
-     *Terminal Founders| Outside of our first office. left: Harrison Hines right: Janison Sivarajah
+     *Terminal Founders| Outside of our first office. left: Harrison Hines right: Janison Sivarajah*
 
 
