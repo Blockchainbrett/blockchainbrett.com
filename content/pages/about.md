@@ -4,11 +4,11 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-I've been building companies in the blockchain space for several years; including product developement, recruiting teams, and business development.
+I've been building companies in the blockchain space for several years; including product developement, team operations, and business development.
 
-As one of the cofounders of Terminal alongside Harrison Hines, our CEO and Janison Sivarajah, our CTO, we are building the worlds leading dapp management platform. We all previously cofounded blockchain companies or dapps beforehand and came together to focus on the vision of managing your dapp in one place. 
+As one of the cofounders and COO of Terminal alongside Harrison Hines, our CEO, and Janison Sivarajah, our CTO, we're building the worlds leading dapp management platform. We all previously cofounded blockchain companies or dapps beforehand and came together to focus on the vision of managing your dapp in one place.
 
-At ConsenSys I was part of the founding team of Balanc3, which was the "Quickbooks for Crypto". There I led product development to release the production app targeting the full crypto bookkeeper Product-Market-Fit in a year, and led business development selling the product to 70+ dApps. 
+At ConsenSys I was part of the founding team of Balanc3, which was the "Quickbooks for Crypto". There I led product development releasing the production app meeting the full crypto bookkeeper Product-Market-Fit in about a year, and led business development selling the product to 70+ dApps and $1.2 M ARR in 5 months. 
 
 My experience in the blockchain industry originally began in 2016 building a dapp on a private instance of Quorum using Azure to improve the dining dollar student experience at Fordham (while starting the Fordham blockchain community, Fordham FinTech Network). Mid 2016 was my "down the rabbit hole" experience in which I read numerous whitepapers, met key people based in NYC (Thankful for meetups!), and started building my own product.
 
