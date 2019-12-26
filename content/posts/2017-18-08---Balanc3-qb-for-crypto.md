@@ -9,6 +9,9 @@ tags:
   - "Accounting"
   - "Crypto"
   - "Smart Contracts"
-description: "Balanc3 is a cyrpto financial managment platform for companies holding and operating with digital assets."
+description: "Balanc3 is a crypto financial managment platform for companies holding and operating with digital assets."
 socialImage: "/media/gutenberg.jpg"
 ---
+
+
+![Balanc3_logo.PNG](/media/Balanc3_logo.png)
