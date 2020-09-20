@@ -4,7 +4,7 @@ date: "2016-08-01T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "fordham-fintech-network"
-category: "Non-Profit"
+category: "PREV: Founder & President"
 tags: 
    - "University" 
    - "Blockchain"
