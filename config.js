@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Brett Shear',
     photo: '/bio1.jpg',
-    bio: 'Cofounder, COO @Terminaldotco     Alumni @ConsenSys  #ethereum #NFTs #DeFi #IPFS #dApps',
+    bio: 'Cofounder, COO @FleekHQ @SpaceStorage   NFT Art Collector  Alumni @ConsenSys  #IPFS #Filecoin #NFTs #DeFi #dweb',
     contacts: {
       email: 'brettharrisonshear@gmail.com',
       telegram: '@blobkchainbrett',
