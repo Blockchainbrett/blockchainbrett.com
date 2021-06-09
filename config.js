@@ -25,7 +25,7 @@ module.exports = {
     // }
   ],
   author: {
-    name: 'Brett Shear',
+    name: 'BlockchainBrett (Brett Shear)',
     photo: '/rtfktPunk.png',
     bio: 'Cofounder & Partner @ PTC Crypto // Cofounder @FleekHQ @SpaceStorage     //    NFT Collector   //   Alumni @ConsenSys // #CreatorEconomy #SocialTokens #NFTs',
     contacts: {
