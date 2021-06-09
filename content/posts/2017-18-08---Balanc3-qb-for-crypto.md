@@ -1,6 +1,6 @@
 ---
 title: "Balanc3: Quickbooks for Crypto"
-date: "2017-05-18T22:12:03.284Z"
+date: "2016-05-18T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "Balanc3-qb-for-crypto"
