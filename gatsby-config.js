@@ -187,7 +187,7 @@ module.exports = {
         background_color: '#FFF',
         theme_color: '#F7A046',
         display: 'standalone',
-        icon: 'static/bio1.jpg'
+        icon: 'static/rtfktPunk.png'
       },
     },
     'gatsby-plugin-offline',
