@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Cofounder & Partner @ PTC Crypto',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 10,
   googleAnalyticsId: '',
   useKatex: false,
   menu: [
@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Brett Shear',
-    photo: '/bio1.jpg',
+    photo: '/rtfktPunk.png',
     bio: 'Cofounder & Partner @ PTC Crypto // Cofounder @FleekHQ @SpaceStorage     //    NFT Collector   //   Alumni @ConsenSys // #CreatorEconomy #SocialTokens #NFTs',
     contacts: {
       email: 'brettharrisonshear@gmail.com',
