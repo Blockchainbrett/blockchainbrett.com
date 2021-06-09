@@ -4,13 +4,15 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-I've been building companies in the decentralized web space for several years; including product developement, team operations, and business development.
+Brett is the cofounder and partner of Palm Tree Crew Crypto, investing in the decentralized creator economy. He has built companies in the crypto space for several years; including product development, team operations, and business development. 
 
-As one of the cofounders and COO of Fleek alongside Harrison Hines, our CEO, and Janison Sivarajah, our CTO, we're building the worlds leading decentralized development platform. We all previously cofounded blockchain companies or dapps beforehand and came together to focus on the vision of managing your dapp in one place.
+He cofounded the Balanc3 project out of ConsenSys in 2016 having successfully launched the software app and onbaorded 100+ crypto founders onto the platform. 
 
-At ConsenSys I was part of the founding team of Balanc3, which was the "Quickbooks for Crypto". There I led product development releasing the production app meeting the full crypto bookkeeper Product-Market-Fit in about a year, and led business development selling the product to 70+ dApps and $1.2 M ARR in 5 months. 
+Brett then cofounded Fleek, the leading blockchain developer platform, in 2018 which now has over 40,000 apps and websites on the platform including the majority of the apps in the blockchain industry. 
 
-My experience in the blockchain and decentralized tech industry originally began in 2016 building a dapp on a private instance of Quorum using Azure to improve the dining dollar student experience at Fordham (while starting the Fordham blockchain community, Fordham FinTech Network). Mid 2016 was my "down the rabbit hole" experience in which I read numerous whitepapers, met key people based in NYC (thankful for meetups!), and started building my own products.
+In addition to building crypto products Brett is also one of the earliest and largest NFT collectors (especially crypto art) starting his collecting in early 2018. 
+
+Since working with Palm Tree Crew, Brett has handled several NFT strategies for creators entering the crypto space and generated $4M+ volume in NFT sales including Kygo's and The Weeknd's. Brett has also been an early investor in many projects in the crypto space including Ethereum, Coinbase, Filecoin, Bitclout, and more.
 
 
 ![bio1.jpg](bio1.jpg)

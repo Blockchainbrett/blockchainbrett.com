@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://blockchainbrett.com',
   pathPrefix: '/',
   title:  'Brett Shear',
-  subtitle: 'Cofounder, COO @Terminaldotco Alumni @ConsenSys #ethereum #NFTs #DeFi #IPFS #dApps',
+  subtitle: 'Cofounder & Partner @ PTC Crypto',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Brett Shear',
     photo: '/bio1.jpg',
-    bio: 'Cofounder, COO @FleekHQ @SpaceStorage     //    NFT Art Collector   //   Alumni @ConsenSys // #IPFS #Filecoin #NFTs #DeFi #dweb',
+    bio: 'Cofounder & Partner @ PTC Crypto // Cofounder @FleekHQ @SpaceStorage     //    NFT Collector   //   Alumni @ConsenSys // #CreatorEconomy #SocialTokens #NFTs',
     contacts: {
       email: 'brettharrisonshear@gmail.com',
       telegram: '@blobkchainbrett',
