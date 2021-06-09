@@ -1,5 +1,5 @@
 ---
-title: "Balanc3: Quickbooks for Crypto"
+title: "ConsenSys: Balanc3: Quickbooks for Crypto"
 date: "2016-05-18T22:12:03.284Z"
 template: "post"
 draft: false
